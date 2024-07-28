@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Profile Control", "Minecraft Profile Control\Minecraft Profile Control.csproj", "{4FFBAFF2-5913-489C-BF70-067EC14B6F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFBAFF2-5913-489C-BF70-067EC14B6F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFBAFF2-5913-489C-BF70-067EC14B6F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFBAFF2-5913-489C-BF70-067EC14B6F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFBAFF2-5913-489C-BF70-067EC14B6F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BEAAD8-C553-4ADC-93D4-9ECEF5C58DE8}
+	EndGlobalSection
+EndGlobal
